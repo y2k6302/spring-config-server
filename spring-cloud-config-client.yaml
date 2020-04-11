@@ -1,2 +1,2 @@
 my:
-    greeting: Greeting from spring-cloud-config-client microservice specific file
+    greeting: Updating Greeting from spring-cloud-config-client microservice specific file
